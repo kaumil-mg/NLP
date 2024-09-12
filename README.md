@@ -46,12 +46,12 @@ This repository focuses on Natural Language Processing (NLP) techniques in both 
 5. **Part of Speech(POS)**
     - Parts of Speech Categories:
 
-     - Noun (NN): Refers to people, places, or things. (e.g., "dog", "city")
-     - Verb (VB): Describes actions or states. (e.g., "run", "is")
-     - Adjective (JJ): Describes attributes of nouns. (e.g., "happy", "blue")
-     - Adverb (RB): Modifies verbs, adjectives, or other adverbs. (e.g., "quickly", "very")
-     - Pronoun (PRP): Replaces nouns. (e.g., "he", "they")
-     - Preposition (IN): Shows the relationship between a noun (or pronoun) and another word. (e.g., "on", "at")
-     - Conjunction (CC): Connects words, phrases, or clauses. (e.g., "and", "but")
-     - Interjection (UH): Expresses emotion. (e.g., "wow", "oops")
+      - Noun (NN): Refers to people, places, or things. (e.g., "dog", "city")
+      - Verb (VB): Describes actions or states. (e.g., "run", "is")
+      - Adjective (JJ): Describes attributes of nouns. (e.g., "happy", "blue")
+      - Adverb (RB): Modifies verbs, adjectives, or other adverbs. (e.g., "quickly", "very")
+      - Pronoun (PRP): Replaces nouns. (e.g., "he", "they")
+      - Preposition (IN): Shows the relationship between a noun (or pronoun) and another word. (e.g., "on", "at")
+      - Conjunction (CC): Connects words, phrases, or clauses. (e.g., "and", "but")
+      - Interjection (UH): Expresses emotion. (e.g., "wow", "oops")
    
