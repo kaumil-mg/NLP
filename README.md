@@ -54,4 +54,17 @@ This repository focuses on Natural Language Processing (NLP) techniques in both 
       - Preposition (IN): Shows the relationship between a noun (or pronoun) and another word. (e.g., "on", "at")
       - Conjunction (CC): Connects words, phrases, or clauses. (e.g., "and", "but")
       - Interjection (UH): Expresses emotion. (e.g., "wow", "oops")
+
+6. **Name Entry Recognition**
+    - NER aims to locate and classify words or phrases in a text that represent entities into specific categories, such as:
+
+       - Person: Names of people (e.g., "Barack Obama", "Albert Einstein")
+       - Organization: Company names or institutions (e.g., "Google", "United Nations")
+       - Location: Geographical locations (e.g., "Paris", "Mount Everest")
+       - Date and Time: Specific dates and times (e.g., "January 1, 2020", "10:00 AM")
+       - Monetary Values: Financial figures (e.g., "$1,000", "50 euros")
+       - Percentages: (e.g., "20%", "15% increase")
+       - Products: Names of products (e.g., "iPhone", "Tesla Model 3")
    
+## **Machine Learning**:
+1. One HOT Encoding
