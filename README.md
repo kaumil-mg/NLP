@@ -68,3 +68,8 @@ This repository focuses on Natural Language Processing (NLP) techniques in both 
    
 ## **Machine Learning**:
 1. One HOT Encoding
+2. Bag Of Word (BOW)
+3. Term Frequency * inverse document frequency(TF*IDF) 
+4. Word Embedding
+5. Word2Vec
+6. cosine similarity
