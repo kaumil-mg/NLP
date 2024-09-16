@@ -73,3 +73,6 @@ This repository focuses on Natural Language Processing (NLP) techniques in both 
 4. Word Embedding
 5. Word2Vec
 6. cosine similarity
+7. Continuous Bag of Words (CBOW)
+8. Skipgram
+9. Average Word2Vec
